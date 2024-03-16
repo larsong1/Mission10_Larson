@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingAPI", "BowlingAPI.csproj", "{539D5298-2956-4D73-B4CC-C4BD13635942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{539D5298-2956-4D73-B4CC-C4BD13635942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{539D5298-2956-4D73-B4CC-C4BD13635942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{539D5298-2956-4D73-B4CC-C4BD13635942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{539D5298-2956-4D73-B4CC-C4BD13635942}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A04D6E23-5D40-414A-9B7E-6433C918F1F6}
+	EndGlobalSection
+EndGlobal
